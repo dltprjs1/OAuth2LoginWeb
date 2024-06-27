@@ -6,7 +6,7 @@ END DATE : 2024 - 06 - 27
 
 Language : Node, React, TypeScript
 
-Social NetWork : Kakao, Naver
+Social Network : Kakao, Naver
 
 # Getting Started with Create React App
 
